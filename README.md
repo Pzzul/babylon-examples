@@ -1,1 +1,1 @@
-# babylon-examples
+# multi-entry-webpack-seed
